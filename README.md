@@ -1,19 +1,19 @@
-# 📇 Livro de contato básico cpp
+#  Livro de contato básico cpp
 
 Um projeto simples em C++ para gerenciar uma agenda de contatos.
 
-## 🚀 Funcionalidades
+##  Funcionalidades
 - Adicionar contatos
 - Listar todos os contatos
 - Buscar contatos por nome
 
-## 🛠️ Tecnologias
+##  Tecnologias
 - C++11+
 - STL (vector, string)
 
 ---
 
-## 💻 **Código completo `main.cpp`**
+##  **Código completo `main.cpp`**
 
 #include <iostream>
 #include <vector>
